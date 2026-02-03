@@ -25,8 +25,7 @@ class food_screen extends StatelessWidget {
           Padding(
             padding: EdgeInsets.only(right: 16.0),
             child: CircleAvatar(
-              backgroundImage: NetworkImage(
-                  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4L8xTarvuln7K2YW7suubZIYEXkJUXKwZg&s'),
+              backgroundImage: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv4L8xTarvuln7K2YW7suubZIYEXkJUXKwZg&s'),
             ),
           )
         ],

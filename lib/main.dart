@@ -11,7 +11,7 @@ class my_app extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: card_screen(),
+      home: whatsapp(),
     );
   }
 }
